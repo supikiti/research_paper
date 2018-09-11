@@ -4,16 +4,17 @@
  <img src = "https://user-images.githubusercontent.com/37444351/45342243-50534d00-b5d8-11e8-83f1-8b09042be715.png" width=1000>
 
 ## どんなもの？
-
+膨大なデータを学習する際に, ランタイムやメモリー, ハイパーパラメータ最適化の問題を改善するFHVAEにおける学習アルゴリズム手法
 
 ## 先行研究と比べてどこがすごい？
 従来の[FHVAE](https://github.com/supikiti/research_paper/blob/master/Unsupervised_Learning_of_Disentangled_and_Interpretable_Representations_from_Sequential_Data.md)の学習アルゴリズムは数千時間に及ぶデータセットに対応できなかった. そこで, 階層的サンプリング学習アルゴリズムにより, ランタイム&メモリー&ハイパーパラメータ最適化, の３つの問題を改善した. 3~1000時間で音声収録環境やノイズタイプを含むデータセットで提案手法を評価した. また, 定性的に性能を評価するための新たな可視化手法を提案する.
+　従来のFHVAEは, 100000文を学習させると8GBのGPUメモリを使い切ってしまう欠点があり, 学習データとしてAMIやLibriSpeechを用いることは困難であった. 提案手法ではこの問題を改善した.
 
 ## 技術と手法のキモはどこ？
 
 
 ## どうやって有効だと検証した？
-
+TIMIT(3696utterances, 3hours), Aurora-4(4620utterances, 10hours), AMI(200000utterances, 100hours), LibriSpeech(1000hours)で評価を行なった. 
 
 ## 議論はある？
 
