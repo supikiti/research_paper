@@ -17,7 +17,7 @@
 TIMIT(3696utterances, 3hours), Aurora-4(4620utterances, 10hours), AMI(200000utterances, 100hours), LibriSpeech(1000hours)で評価を行なった. 
 
 ## 議論はある？
-
+バッチサイズを上げることで最適化の処理時間も悪くなった. バッチサイズが2000以上になると, 処理時間がバッチサイズに比例して悪くなった. 
 
 ## 次に読むべき論文
 
