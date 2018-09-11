@@ -1,4 +1,4 @@
-# Scalable Factorized Hierarchical Variational Autoencoder Training(WIP)
+# Scalable Factorized Hierarchical Variational Autoencoder Training
 [Scalable Factorized Hierarchical Variational Autoencoder Training](https://arxiv.org/abs/1804.03201)
 
  <img src = "https://user-images.githubusercontent.com/37444351/45342243-50534d00-b5d8-11e8-83f1-8b09042be715.png" width=1000>
