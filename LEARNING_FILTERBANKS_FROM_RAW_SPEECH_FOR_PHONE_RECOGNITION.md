@@ -1,7 +1,7 @@
 # LEARNING FILTERBANKS FROM RAW SPEECH FOR PHONE RECOGNITION
 [LEARNING FILTERBANKS FROM RAW SPEECH FOR PHONE RECOGNITION](https://arxiv.org/pdf/1711.01161.pdf)
 
- <div align="center"><img src = "https://user-images.githubusercontent.com/37444351/45432995-2b4d0000-b6e6-11e8-8f72-361db59ad83f.png" width=600></div>
+ <div align="center"><img src = "https://user-images.githubusercontent.com/37444351/45432995-2b4d0000-b6e6-11e8-8f72-361db59ad83f.png" width=300></div>
  
 ## どんなもの？
 
