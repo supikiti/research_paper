@@ -19,5 +19,5 @@
 
 
 ## 次に読むべき論文
-
+[SEGAN: Speech Enhancement Generative Adversarial Network](https://arxiv.org/abs/1703.09452)
 
