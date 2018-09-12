@@ -20,8 +20,10 @@
 
 ## 次に読むべき論文
 元のSEGAN
+
 [SEGAN: Speech Enhancement Generative Adversarial Network](https://arxiv.org/abs/1703.09452)
 
 ノイズデータをデータセットに加えたときの効果
+
 [JOINT NOISE ADAPTIVE TRAINING FOR ROBUST AUTOMATIC SPEECH RECOGNITION](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6854051)
 
