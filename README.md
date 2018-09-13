@@ -11,7 +11,7 @@
 [
 Investigation of Using Disentangled and Interpretable Representations for One-shot Cross-lingual Voice Conversion](https://github.com/supikiti/research_paper/blob/master/Investigation_of_using_disentangled_and_interpretable_representations_for_one-shot_cross-lingual_voice_conversion.md)
 
-## Robust Speech Recognition
+## Robust Speech Recognition & Speech Enhancement
 [EXPLORING SPEECH ENHANCEMENT WITH GENERATIVE ADVERSARIAL NETWORKS FOR ROBUST SPEECH RECOGNITION](https://github.com/supikiti/research_paper/blob/master/EXPLORING_SPEECH_ENHANCEMENT_WITH_GENERATIVE_ADVERSARIAL_NETWORKS_FOR_ROBUST_SPEECH_RECOGNITION.md)
 
 [LEARNING FILTERBANKS FROM RAW SPEECH FOR PHONE RECOGNITION(WIP)](https://github.com/supikiti/research_paper/edit/master/LEARNING_FILTERBANKS_FROM_RAW_SPEECH_FOR_PHONE_RECOGNITION.md)
