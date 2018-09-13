@@ -19,3 +19,8 @@ Investigation of Using Disentangled and Interpretable Representations for One-sh
 [SEGAN Speech Enhancement Generative Adversarial Network(WIP)](https://github.com/supikiti/research_paper/blob/master/SEGAN_Speech_Enhancement_Generative_Adversarial_Network.md)
 
 [Investigating Generative Adversarial Networks based Speech Dereverberation for Robust Speech Recognition(WIP)](https://github.com/supikiti/research_paper/blob/master/Investigating_Generative_Adversarial_Networks_based_Speech_Dereverberation_for_Robust_Speech_Recognition.md)
+
+これから読もうとしてるやつ
+[1](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1294.pdf)
+[2](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1405.pdf)
+[3](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1223.pdf)
