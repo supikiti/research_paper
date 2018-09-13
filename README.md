@@ -15,3 +15,7 @@ Investigation of Using Disentangled and Interpretable Representations for One-sh
 [EXPLORING SPEECH ENHANCEMENT WITH GENERATIVE ADVERSARIAL NETWORKS FOR ROBUST SPEECH RECOGNITION](https://github.com/supikiti/research_paper/blob/master/EXPLORING_SPEECH_ENHANCEMENT_WITH_GENERATIVE_ADVERSARIAL_NETWORKS_FOR_ROBUST_SPEECH_RECOGNITION.md)
 
 [LEARNING FILTERBANKS FROM RAW SPEECH FOR PHONE RECOGNITION(WIP)](https://github.com/supikiti/research_paper/edit/master/LEARNING_FILTERBANKS_FROM_RAW_SPEECH_FOR_PHONE_RECOGNITION.md)
+
+[SEGAN Speech Enhancement Generative Adversarial Network(WIP)](https://github.com/supikiti/research_paper/blob/master/SEGAN_Speech_Enhancement_Generative_Adversarial_Network.md)
+
+[Investigating Generative Adversarial Networks based Speech Dereverberation for Robust Speech Recognition(WIP)](https://github.com/supikiti/research_paper/blob/master/Investigating_Generative_Adversarial_Networks_based_Speech_Dereverberation_for_Robust_Speech_Recognition.md)
