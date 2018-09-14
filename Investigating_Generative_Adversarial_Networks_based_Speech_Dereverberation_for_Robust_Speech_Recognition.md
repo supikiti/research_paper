@@ -1,5 +1,5 @@
-# 題名
-[題名](リンク)
+# Investigating GAN based Speech Dereverberation for Robust Speech Recognition
+[Investigating GAN based Speech Dereverberation for Robust Speech Recognition]()
 
  <img src = "画像リンク" width=1000>
 
