@@ -30,3 +30,4 @@ Investigation of Using Disentangled and Interpretable Representations for One-sh
 [2](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1405.pdf)
 [3](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1223.pdf)
 [4](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1097.pdf)
+[5](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1928.pdf)
