@@ -33,6 +33,5 @@ Spectro-Temporal Modeling](https://uol.de/fileadmin/user_upload/mediphysik/ag/si
 for Speech Dereverberation and Denoising](https://web.cse.ohio-state.edu/~wang.77/papers/Williamson-Wang.taslp17.pdf)
 
 - こいつは絶対に読むべき（MSE誤差について)
-[Mean Squared
-Error: Love It
-or Leave It?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4775883)
+
+[Mean SquaredError: Love It or Leave It?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4775883)
