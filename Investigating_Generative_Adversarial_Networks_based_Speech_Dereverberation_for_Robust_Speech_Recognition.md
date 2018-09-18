@@ -4,12 +4,13 @@
  <img src = "画像リンク" width=1000>
 
 ## どんなもの？
-GANs have benn recently studied for speech enhancement to remove additive noises, but there still lacks of a work to examine their ability in speech dereverberation and the advantages of using GANs have not been fully established. In this paper, we provide deep investigations in the use of GAN-based dereverberation front-end in ASR. 
- 1. we study the effectiveness of different dereverberation network, and find that LSTM leads to a significant improvement as compared with feed-forward DNN and CNN in out dataset. 
- 2. further adding residual connections in the deep LSTMs can boost the performance as well. 
- 3. for the success of GAN, it is important to update the generator and the discriminator using the same mini-batch data during training. 
+GANをASR前段階としての残響抑圧に関する調査をまとめた論文.具体的には以下の点について言及されている.
+
+1. 異なる残響抑圧モデルの効果の比較.また, 従来のフィードフォワードモデルと比較するLSTMモデルの効果
+1. residual接続(Resnetと同じ構造)を導入することにより, LSTMの性能が向上
+1. GANの学習中は, 生成器と判別器を同じミニバッチデータで更新するのが重要である. 
  
- In summary, out GAN-based dereverberation front-end achieves 14%~19% relative CER reduction as compared to the baseline DNN dereverberation network when tested on a strong multi-condition training acoustic model.
+また, GANによるASRの前段階における残響抑圧は, 従来のベースラインDNNと比較して, 14% ~ 19%のCERが減少した. 
 
 ## 先行研究と比べてどこがすごい？
 
