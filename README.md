@@ -32,4 +32,4 @@ Investigation of Using Disentangled and Interpretable Representations for One-sh
 [5](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1928.pdf)
 
 ## Speaker Verification
-[Speaker Embedding Extraction with Phonetic Information](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1226.pdf(WIP))
+[Speaker Embedding Extraction with Phonetic Information(WIP)](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1226.pdf)
