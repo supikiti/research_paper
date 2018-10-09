@@ -20,10 +20,12 @@ triplet lossを組み入れたGANに, マルチタスクを組み入れている
 
 ## 次に読むべき論文
 - 従来手法
+
 [End-to-End Text-Independent Speaker Verification with Triplet Loss on Short
 Utterances](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1608.PDF)
 
 - Triplet lossを組み入れているGAN
+
 [TripletGAN: Training Generative Model with Triplet Loss](https://arxiv.org/pdf/1711.05084.pdf)
 
 [TRAINING TRIPLET
