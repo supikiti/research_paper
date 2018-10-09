@@ -31,6 +31,9 @@ Utterances](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1608.PDF)
 [TRAINING TRIPLET
 NETWORKS WITH GAN](https://arxiv.org/pdf/1704.02227.pdf)
 
+- triplet手法はサンプリング手法に大きく依存しており, その問題はこちらで議論されている. 
+
+[Sampling Matters in Deep Embedding Learning](https://arxiv.org/pdf/1706.07567.pdf)
 
 ### 追記
 triplet lossは, クラス内部の距離を最小化すると共に, クラス間距離を最大化する. しかし, データにノイズや反響音がある場合, 話者認証タスクにおいて, triplet lossによる学習では限界がある. 
