@@ -33,3 +33,6 @@ Investigation of Using Disentangled and Interpretable Representations for One-sh
 
 ## Speaker Verification
 [Speaker Embedding Extraction with Phonetic Information(WIP)](https://github.com/supikiti/research_paper/blob/master/Speaker_Embedding_Extraction_with_Phonetic_Information.md)
+
+[MTGAN: Speaker Verification through Multitasking Triplet
+Generative Adversarial Networks](https://github.com/supikiti/research_paper/blob/master/MTGAN-Speaker_Verification_through_Multitasking_Triplet_Generative_Adversarial_Network.md)
