@@ -10,7 +10,7 @@
 i-vectorを用いた従来手法と異なり, E2EモデルのASVモデルは短い発話で良い性能を発揮する. 
 
 ## 技術と手法のキモはどこ？
-
+triplet lossを組み入れたGANに, マルチタスクを組み入れている点. tripletGANは以前から存在した.
 
 ## どうやって有効だと検証した？
 モデルの学習にはLibriSpeechを用いた. モデルの評価には, 全音素を含んでいるTIMITを用いた. 従来のi-vector/Cosine, i-vector/PLDA, Softmax loss, Triplet lossをベースラインとし, 検証を行った. EER, Accuracy共に, 4つのベースラインを上回った. 
@@ -26,6 +26,7 @@ Utterances](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1608.PDF)
 - Triplet lossを組み入れているGAN
 [TripletGAN: Training Generative Model with Triplet
 Loss](https://arxiv.org/pdf/1711.05084.pdf)
+
 [TRAINING TRIPLET
 NETWORKS WITH GAN](https://arxiv.org/pdf/1704.02227.pdf)
 
