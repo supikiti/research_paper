@@ -38,4 +38,4 @@ Investigation of Using Disentangled and Interpretable Representations for One-sh
 Generative Adversarial Networks](https://github.com/supikiti/research_paper/blob/master/MTGAN-Speaker_Verification_through_Multitasking_Triplet_Generative_Adversarial_Network.md)
 
 [End-to-End Text-Independent Speaker Verification with Triplet Loss on Short
-Utterances](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1608.PDF)
+Utterances](https://github.com/supikiti/research_paper/blob/master/End-to-End_Text-Independent_Speaker_Verification_with_Triplet_Loss_on_Short_Utterances.md)
