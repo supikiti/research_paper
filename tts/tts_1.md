@@ -1,5 +1,6 @@
 # 題名
-[題名](リンク)
+[Investigation of learning abilities on linguistic features in sequence-to-sequence
+text-to-speech synthesis](https://arxiv.org/pdf/2005.10390.pdf)
 
 ## どんなもの？
 
@@ -17,5 +18,3 @@
 
 
 ## 次に読むべき論文
-
-
